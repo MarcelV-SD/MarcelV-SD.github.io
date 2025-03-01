@@ -1,2 +1,2 @@
-# MarcelV-SD.github.io
-Website Testing Suite
+Website Testing Page
+Currently Available via: https://marcelv-sd.github.io/
